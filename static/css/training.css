@@ -125,6 +125,7 @@ h5 {
 .half-image{
   width:50%;
   float:left;
+  background-image:url('/images/training/training-sub.jpg');
 }
 
 .half-image img{
