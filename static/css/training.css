@@ -123,6 +123,8 @@ h5 {
     display: inline-block;
     vertical-align: top;
     width: 46%;
+    padding:3%;
+    margin-top:5%;
     }
 
 .halftext {
