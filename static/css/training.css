@@ -432,7 +432,7 @@ h2 {
     section.call-to-action .main-section > div.call-to-action {
     padding-top:2rem;
     padding-bottom: 2rem;
-    background-image:url('/images/training-bg-mobile.jpg');
+    background-image:url('training-bg-mobile.jpg');
 
     }
     section.call-to-action {
