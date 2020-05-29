@@ -132,7 +132,7 @@ h5 {
   padding:8%;
 }
 
-.halftext button {
+.halftext .button {
   margin-top:2%;
 }
 
@@ -359,7 +359,7 @@ h5 {
     margin-top:2%;
     padding-bottom:1%;
   }
-  .halftext button {
+  .halftext .button {
     margin-top:0%;
   }
 }
