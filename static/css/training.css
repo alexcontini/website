@@ -355,7 +355,7 @@ h2 {
     }
 }
 
-@media screen and (min-width:840px) and (max-width:1150px){ {
+@media screen and (min-width:841px) and (max-width:1150px){ {
 
   .halftext {
     width:100%;
@@ -398,7 +398,7 @@ h2 {
     width:100%;
     padding-bottom:10%;
   }
-  
+
   .lighter-gray-bg-banner {
     padding:0px;
   }
