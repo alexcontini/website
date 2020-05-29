@@ -351,11 +351,11 @@ h2 {
     .col { margin: 1% 0 1% 0%;}
 
     .lighter-gray-bg-banner {
-      padding-top:0px;
+      padding:0px;
     }
 }
 
-@media screen and (min-width:841px) and (max-width:1150px){ 
+@media screen and (min-width:841px) and (max-width:1150px){
 
   .halftext {
     width:100%;
