@@ -123,14 +123,15 @@ h5 {
     display: inline-block;
     vertical-align: top;
     width: 46%;
-    padding:3%;
-    margin-top:5%;
+
     }
 
 .halftext {
     display: inline-block;
     width: 46%;
     text-align:center;
+    padding:3%;
+    margin-top:5%;
     @media (max-width: 620px) {
     width: 100%;
         }
