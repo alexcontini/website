@@ -392,7 +392,6 @@ h2 {
 
   @media only screen and (max-width: 650px) {
 
-
     .halfimg {
       width:100%;
     }
@@ -405,6 +404,8 @@ h2 {
     .col-nav {
       display: block;
       width: 100%;
+      margin-bottom:3%;
+      padding-bottom:5%;
   }
     .col-container { flex-direction: column; }
 
