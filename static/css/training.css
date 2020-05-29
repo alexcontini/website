@@ -116,21 +116,25 @@ h5 {
 }
 
 .halfcontainer {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 .halfimg {
-    display: inline-block;
-    vertical-align: top;
-    width: 50%;
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
 }
 
 .halftext {
-    display: inline-block;
-    width: 50%;
-    text-align:center;
-    padding:4%;
-    margin-top:3%;
+  display: inline-block;
+  width: 50%;
+  text-align:center;
+  padding:4%;
+  margin-top:3%;
+}
+
+.halftext button {
+  margin-top:2%;
 }
 
 .half {
@@ -356,6 +360,9 @@ h5 {
     padding:1%;
     margin-top:2%;
     padding-bottom:1%;
+  }
+  .halftext button {
+    margin-top:0%;
   }
 }
 
