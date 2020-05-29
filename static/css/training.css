@@ -378,7 +378,15 @@ h2 {
 }
   .mobile {
       display:block;
+  }
 
+  .halfimg {
+    width:100%;
+  }
+
+  .halftext {
+    width:100%;
+    padding-bottom:10%;
   }
 
 }
